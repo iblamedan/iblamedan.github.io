@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: danjrose Github
+description: A playground
+logo: https://res.cloudinary.com/iblamedan/image/upload/v1574677191/danjrose_logo_300_rgjmdw.png
+show_downloads: false
